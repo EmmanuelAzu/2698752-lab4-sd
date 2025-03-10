@@ -1,1 +1,33 @@
 
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    
+}
+
+.container {
+    max-width: 100px;
+   
+}
+
+#country {
+    width: 40%;
+    display: inline-block;
+}
+
+#submit {
+    width: 20%;
+    padding: 5px;
+    background-color: green;
+    color: #fff;
+    
+}
+
+section {
+    margin-top: 20px;
+}
+
+
+
+
